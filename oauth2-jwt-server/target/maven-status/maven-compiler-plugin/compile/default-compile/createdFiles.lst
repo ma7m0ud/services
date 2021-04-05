@@ -1,0 +1,8 @@
+com/marcosbarbero/lab/sec/oauth/jwt/config/props/SecurityProperties$JwtProperties.class
+com/marcosbarbero/lab/sec/oauth/jwt/config/security/ResourceServerConfiguration.class
+com/marcosbarbero/lab/sec/oauth/jwt/config/security/WebSecurityConfiguration.class
+com/marcosbarbero/lab/sec/oauth/jwt/config/security/AuthorizationServerConfiguration.class
+com/marcosbarbero/lab/sec/oauth/jwt/config/security/DefaultPasswordEncoderFactories.class
+com/marcosbarbero/lab/sec/oauth/jwt/config/props/SecurityProperties.class
+com/marcosbarbero/lab/sec/oauth/jwt/OAuth2ServerJwtApplication.class
+com/marcosbarbero/lab/sec/oauth/jwt/web/UserController.class
